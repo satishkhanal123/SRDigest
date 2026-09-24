@@ -1,0 +1,7 @@
+[
+  { "id": "stories",  "label": "Stories",  "icon": "ph-newspaper",  "endpoint": "stories" },
+  { "id": "jokes",    "label": "Jokes",    "icon": "ph-smiley",     "endpoint": "jokes" },
+  { "id": "health",   "label": "Health",   "icon": "ph-heartbeat",  "endpoint": "health" },
+  { "id": "quotes",   "label": "Quotes",   "icon": "ph-quotes",     "endpoint": "quotes" },
+  { "id": "advice",   "label": "Advice",   "icon": "ph-lightbulb",  "endpoint": "advice" }
+]
