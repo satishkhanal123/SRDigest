@@ -1,0 +1,21 @@
+{
+  "quote": {
+    "content": "A kind word can warm three winter months.",
+    "author": "Japanese Proverb"
+  },
+  "joke": {
+    "setup": "Why did the man put his money in the freezer?",
+    "delivery": "He wanted cold hard cash!"
+  },
+  "health": {
+    "title": "Drink Water",
+    "text": "Drink a glass of water when you wake up. It helps your body start the day."
+  },
+  "advice": {
+    "text": "Take a short walk every day. Your heart will thank you."
+  },
+  "story": {
+    "title": "A New Friend",
+    "body": "Mary moved to a new town. She felt lonely at first. One day, she said hello to a neighbor. Now they walk together every morning. Small hellos can grow into big friendships."
+  }
+}
