@@ -1,0 +1,64 @@
+name: Daily Content Refresh
+
+on:
+  schedule:
+    # Runs every day at 05:00 UTC (10:30 AM IST)
+    - cron: '0 5 * * *'
+  workflow_dispatch:  # allows manual trigger from GitHub tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch fresh daily content
+        run: |
+          mkdir -p json
+          echo "Fetching quotes..."
+          curl -s "https://api.quotable.io/random?tags=wisdom|motivational&maxLength=180" \
+            -o /tmp/quote.json || true
+
+          echo "Fetching jokes..."
+          curl -s "https://v2.jokeapi.dev/joke/Any?safe-mode&type=single,twopart&lang=en" \
+            -o /tmp/joke.json || true
+
+          echo "Fetching advice..."
+          curl -s "https://api.adviceslip.com/advice" \
+            -o /tmp/advice.json || true
+
+          echo "Fetching health tip..."
+          curl -s "https://odphp.health.gov/myhealthfinder/api/v4/topicsearch.json?TopicId=527" \
+            -o /tmp/health.json || true
+
+          echo "Merge into daily.json..."
+          node -e "
+            const fs = require('fs');
+            const read = (f) => { try { return JSON.parse(fs.readFileSync(f,'utf8')); } catch { return null; } };
+            const daily = {
+              generatedAt: new Date().toISOString(),
+              quote:   read('/tmp/quote.json'),
+              joke:    read('/tmp/joke.json'),
+              advice:  read('/tmp/advice.json'),
+              health:  read('/tmp/health.json')
+            };
+            fs.writeFileSync('json/daily.json', JSON.stringify(daily, null, 2));
+          "
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add json/daily.json
+          git diff --cached --quiet && echo "No changes to commit." || \
+            git commit -m "chore: daily content refresh $(date -u +'%Y-%m-%d')"
+          git push
