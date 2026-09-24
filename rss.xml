@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golden Reader — Easy Reading for Everyone</title>
+    <link>https://yourdomain.com/</link>
+    <description>Stories, jokes, health tips, and quotes in simple English.</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2025 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://yourdomain.com/rss.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>Today’s Story</title>
+      <link>https://yourdomain.com/#stories</link>
+      <description>A short, easy story for you to enjoy.</description>
+      <pubDate>Mon, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid>https://yourdomain.com/#stories</guid>
+    </item>
+
+    <item>
+      <title>Joke of the Day</title>
+      <link>https://yourdomain.com/#jokes</link>
+      <description>A clean joke to make you smile.</description>
+      <pubDate>Mon, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid>https://yourdomain.com/#jokes</guid>
+    </item>
+
+    <item>
+      <title>Health Tip</title>
+      <link>https://yourdomain.com/#health</link>
+      <description>A simple tip for a healthy day.</description>
+      <pubDate>Mon, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid>https://yourdomain.com/#health</guid>
+    </item>
+  </channel>
+</rss>
