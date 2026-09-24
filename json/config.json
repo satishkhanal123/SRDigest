@@ -21,7 +21,7 @@
     },
     "stories": {
       "note": "NewsData.io requires an API key. Add yours below.",
-      "url": "https://newsdata.io/api/1/news?apikey=YOUR_API_KEY&language=en&category=top&size=5"
+      "url": "https://newsdata.io/api/1/news?apikey=pub_463f3d0e3c2b496594d200cb82e3088a&language=en&category=top&size=5"
     }
   },
   "search": {
