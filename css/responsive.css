@@ -1,0 +1,39 @@
+/* ═══════════════════════════════════════
+   RESPONSIVE — Mobile-first, then scale up
+   ═══════════════════════════════════════ */
+
+/* Base = mobile (single column) */
+
+/* ── Small tablets ── */
+@media (min-width: 600px) {
+  :root {
+    --fs-xl:  2rem;
+    --fs-2xl: 2.75rem;
+  }
+  .main { padding-left: var(--sp-5); padding-right: var(--sp-5); }
+  .related-grid { grid-template-columns: repeat(2, 1fr); }
+  .footer-inner { grid-template-columns: 1fr 1fr; }
+}
+
+/* ── Desktop ── */
+@media (min-width: 900px) {
+  :root {
+    --fs-md:  1.25rem;
+    --fs-lg:  1.5rem;
+    --fs-xl:  2.25rem;
+    --fs-2xl: 3rem;
+  }
+  .header-inner { padding: var(--sp-4) var(--sp-6); }
+  .search-wrap  { padding-top: var(--sp-6); }
+  .main         { padding-top: var(--sp-6); }
+  .related-grid { grid-template-columns: repeat(3, 1fr); }
+  .footer-inner { grid-template-columns: 2fr 1fr 1fr; }
+
+  /* Sidebar stays as drawer, but wider */
+  .drawer { width: 360px; }
+}
+
+/* ── Large desktop ── */
+@media (min-width: 1200px) {
+  .main { max-width: 800px; }
+}
