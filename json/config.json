@@ -1,0 +1,31 @@
+{
+  "app": {
+    "name": "Golden Reader",
+    "version": "1.0.0",
+    "cacheTTLMinutes": 60,
+    "maxCachedArticles": 5
+  },
+  "apis": {
+    "quotes": {
+      "url": "https://api.quotable.io/random?tags=wisdom|motivational&maxLength=180",
+      "fallback": "https://zenquotes.io/api/random"
+    },
+    "jokes": {
+      "url": "https://v2.jokeapi.dev/joke/Any?safe-mode&type=single,twopart&lang=en"
+    },
+    "health": {
+      "url": "https://odphp.health.gov/myhealthfinder/api/v4/topicsearch.json?TopicId=527"
+    },
+    "advice": {
+      "url": "https://api.adviceslip.com/advice"
+    },
+    "stories": {
+      "note": "NewsData.io requires an API key. Add yours below.",
+      "url": "https://newsdata.io/api/1/news?apikey=YOUR_API_KEY&language=en&category=top&size=5"
+    }
+  },
+  "search": {
+    "minChars": 2,
+    "maxResults": 6
+  }
+}
