@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light" data-fontsize="md">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Golden Reader — easy stories, jokes, health tips, and quotes for a happy day." />
+  <meta name="theme-color" content="#F7F5F0" />
+  <title>Golden Reader — Easy Reading for Everyone</title>
+
+  <!-- Premium Typography -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700;900&family=Lato:wght@400;700;900&display=swap" rel="stylesheet" />
+
+  <!-- Icons (Phosphor Icons — premium set) -->
+  <link rel="stylesheet" href="https://unpkg.com/@phosphor-icons/web@2.1.1/src/regular/style.css" />
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/global.css" />
+  <link rel="stylesheet" href="css/responsive.css" />
+  <link rel="stylesheet" href="css/accessibility.css" />
+
+  <!-- SEO -->
+  <link rel="canonical" href="https://yourdomain.com/" />
+  <link rel="alternate" type="application/rss+xml" title="Golden Reader RSS" href="rss.xml" />
+</head>
+<body>
+
+  <!-- Skip link for screen readers -->
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+
+  <!-- ═══ HEADER ═══ -->
+  <header class="site-header" role="banner">
+    <div class="header-inner">
+      <button class="menu-toggle" id="menuToggle" aria-label="Open menu" aria-expanded="false">
+        <i class="ph ph-list" aria-hidden="true"></i>
+      </button>
+
+      <a href="/" class="logo" aria-label="Golden Reader home">
+        <span class="logo-icon"><i class="ph ph-book-open-text" aria-hidden="true"></i></span>
+        <span class="logo-text">Golden&nbsp;Reader</span>
+      </a>
+
+      <div class="header-actions">
+        <button class="icon-btn" id="ttsToggle" aria-label="Read page aloud">
+          <i class="ph ph-speaker-high" aria-hidden="true"></i>
+        </button>
+        <button class="icon-btn" id="contrastToggle" aria-label="Toggle high contrast">
+          <i class="ph ph-circle-half" aria-hidden="true"></i>
+        </button>
+        <button class="icon-btn" id="fontToggle" aria-label="Change font size">
+          <i class="ph ph-text-aa" aria-hidden="true"></i>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ═══ SIDEBAR DRAWER ═══ -->
+  <div class="drawer-overlay" id="drawerOverlay" hidden></div>
+
+  <aside class="drawer" id="sidebar" aria-label="Categories" role="navigation">
+    <div class="drawer-header">
+      <h2>Menu</h2>
+      <button class="icon-btn" id="closeDrawer" aria-label="Close menu">
+        <i class="ph ph-x" aria-hidden="true"></i>
+      </button>
+    </div>
+
+    <nav>
+      <ul class="drawer-nav" id="drawerNav">
+        <li><a href="#stories" data-category="stories"><i class="ph ph-newspaper"></i> Stories</a></li>
+        <li><a href="#jokes" data-category="jokes"><i class="ph ph-smiley"></i> Jokes</a></li>
+        <li><a href="#health" data-category="health"><i class="ph ph-heartbeat"></i> Health</a></li>
+        <li><a href="#quotes" data-category="quotes"><i class="ph ph-quotes"></i> Quotes</a></li>
+        <li><a href="#advice" data-category="advice"><i class="ph ph-lightbulb"></i> Advice</a></li>
+      </ul>
+    </nav>
+
+    <div class="drawer-footer">
+      <button class="btn btn-outline" id="clearCache">
+        <i class="ph ph-trash"></i> Clear saved articles
+      </button>
+    </div>
+  </aside>
+
+  <!-- ═══ SEARCH BAR ═══ -->
+  <div class="search-wrap" role="search">
+    <div class="search-box">
+      <i class="ph ph-magnifying-glass search-icon" aria-hidden="true"></i>
+      <input
+        type="search"
+        id="searchInput"
+        placeholder="Search stories…"
+        aria-label="Search stories"
+        autocomplete="off"
+        role="combobox"
+        aria-expanded="false"
+        aria-autocomplete="list"
+        aria-controls="autocompleteList"
+      />
+      <ul id="autocompleteList" class="autocomplete-list" role="listbox" hidden></ul>
+    </div>
+  </div>
+
+  <!-- ═══ MAIN CONTENT ═══ -->
+  <main id="main-content" class="main" role="main">
+
+    <!-- Featured Story -->
+    <section class="section" id="stories" aria-labelledby="featured-heading">
+      <h2 class="section-title" id="featured-heading">
+        <i class="ph ph-star"></i> Today’s Story
+      </h2>
+      <article class="card card-featured" id="featuredStory">
+        <div class="skeleton skeleton-title"></div>
+        <div class="skeleton skeleton-text"></div>
+        <div class="skeleton skeleton-text short"></div>
+      </article>
+      <div class="tts-controls" data-target="featuredStory">
+        <button class="btn btn-tts" aria-label="Listen to this story">
+          <i class="ph ph-play-circle"></i> Listen
+        </button>
+        <button class="btn btn-tts btn-tts-stop" aria-label="Stop reading" hidden>
+          <i class="ph ph-stop-circle"></i> Stop
+        </button>
+      </div>
+    </section>
+
+    <!-- Daily Quote -->
+    <section class="section" id="quotes" aria-labelledby="quote-heading">
+      <h2 class="section-title" id="quote-heading">
+        <i class="ph ph-quotes"></i> Quote of the Day
+      </h2>
+      <article class="card card-quote" id="quoteCard">
+        <div class="skeleton skeleton-text"></div>
+      </article>
+      <div class="tts-controls" data-target="quoteCard">
+        <button class="btn btn-tts" aria-label="Listen to this quote">
+          <i class="ph ph-play-circle"></i> Listen
+        </button>
+        <button class="btn btn-tts btn-tts-stop" aria-label="Stop reading" hidden>
+          <i class="ph ph-stop-circle"></i> Stop
+        </button>
+      </div>
+    </section>
+
+    <!-- Daily Joke -->
+    <section class="section" id="jokes" aria-labelledby="joke-heading">
+      <h2 class="section-title" id="joke-heading">
+        <i class="ph ph-smiley"></i> Joke of the Day
+      </h2>
+      <article class="card card-joke" id="jokeCard">
+        <div class="skeleton skeleton-text"></div>
+      </article>
+      <div class="tts-controls" data-target="jokeCard">
+        <button class="btn btn-tts" aria-label="Listen to this joke">
+          <i class="ph ph-play-circle"></i> Listen
+        </button>
+        <button class="btn btn-tts btn-tts-stop" aria-label="Stop reading" hidden>
+          <i class="ph ph-stop-circle"></i> Stop
+        </button>
+      </div>
+    </section>
+
+    <!-- Health Tip -->
+    <section class="section" id="health" aria-labelledby="health-heading">
+      <h2 class="section-title" id="health-heading">
+        <i class="ph ph-heartbeat"></i> Health Tip
+      </h2>
+      <article class="card card-health" id="healthCard">
+        <div class="skeleton skeleton-text"></div>
+      </article>
+      <div class="tts-controls" data-target="healthCard">
+        <button class="btn btn-tts" aria-label="Listen to this health tip">
+          <i class="ph ph-play-circle"></i> Listen
+        </button>
+        <button class="btn btn-tts btn-tts-stop" aria-label="Stop reading" hidden>
+          <i class="ph ph-stop-circle"></i> Stop
+        </button>
+      </div>
+    </section>
+
+    <!-- Advice -->
+    <section class="section" id="advice" aria-labelledby="advice-heading">
+      <h2 class="section-title" id="advice-heading">
+        <i class="ph ph-lightbulb"></i> Advice for Today
+      </h2>
+      <article class="card card-advice" id="adviceCard">
+        <div class="skeleton skeleton-text"></div>
+      </article>
+      <div class="tts-controls" data-target="adviceCard">
+        <button class="btn btn-tts" aria-label="Listen to this advice">
+          <i class="ph ph-play-circle"></i> Listen
+        </button>
+        <button class="btn btn-tts btn-tts-stop" aria-label="Stop reading" hidden>
+          <i class="ph ph-stop-circle"></i> Stop
+        </button>
+      </div>
+    </section>
+
+    <!-- Related Links -->
+    <section class="section" id="related" aria-labelledby="related-heading">
+      <h2 class="section-title" id="related-heading">
+        <i class="ph ph-link"></i> More to Read
+      </h2>
+      <div class="related-grid" id="relatedGrid">
+        <!-- Populated by JS from cache / API -->
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ═══ FOOTER ═══ -->
+  <footer class="site-footer" role="contentinfo">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <span class="logo-icon"><i class="ph ph-book-open-text"></i></span>
+        <span class="logo-text">Golden Reader</span>
+        <p class="footer-tagline">Easy words. Happy reading.</p>
+      </div>
+
+      <nav class="footer-nav" aria-label="Footer links">
+        <h3>Quick Links</h3>
+        <ul>
+          <li><a href="#stories">Stories</a></li>
+          <li><a href="#jokes">Jokes</a></li>
+          <li><a href="#health">Health</a></li>
+          <li><a href="#quotes">Quotes</a></li>
+          <li><a href="#advice">Advice</a></li>
+        </ul>
+      </nav>
+
+      <nav class="footer-nav" aria-label="See also">
+        <h3>See Also</h3>
+        <ul>
+          <li><a href="rss.xml">RSS Feed</a></li>
+          <li><a href="sitemap.xml">Sitemap</a></li>
+          <li><a href="https://www.health.gov" target="_blank" rel="noopener">Health.gov</a></li>
+          <li><a href="https://quotable.io" target="_blank" rel="noopener">Quotable</a></li>
+          <li><a href="https://jokeapi.dev" target="_blank" rel="noopener">JokeAPI</a></li>
+        </ul>
+      </nav>
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; <span id="year"></span> Golden Reader. Content from free public APIs. Made with care for every reader.</p>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="js/cache.js" defer></script>
+  <script src="js/tts.js" defer></script>
+  <script src="js/accessibility.js" defer></script>
+  <script src="js/api.js" defer></script>
+  <script src="js/search.js" defer></script>
+  <script src="js/app.js" defer></script>
+</body>
+</html>
