@@ -1,0 +1,120 @@
+{
+  "generatedAt": "2026-09-25T09:58:07.907Z",
+  "quote": null,
+  "joke": {
+    "error": false,
+    "category": "Misc",
+    "type": "twopart",
+    "setup": "Mom asked me where I'm taking her to go out to eat for mother's day.",
+    "delivery": "I told her, \"We already have food in the house\".",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": false
+    },
+    "id": 87,
+    "safe": true,
+    "lang": "en"
+  },
+  "advice": {
+    "slip": {
+      "id": 57,
+      "advice": "If you get stuck, try doing the opposite of what the solution requires."
+    }
+  },
+  "health": {
+    "Result": {
+      "Error": "False",
+      "Total": 1,
+      "Query": {
+        "ApiVersion": "4",
+        "ApiType": "topicsearch",
+        "TopicId": "527",
+        "CategoryId": null,
+        "Keyword": null,
+        "Age": null,
+        "Sex": null,
+        "Pregnant": null,
+        "Lang": "en",
+        "Type": null,
+        "ReturnType": "json",
+        "Callback": null,
+        "APiType": "topicsearch"
+      },
+      "Language": "English",
+      "Resources": {
+        "Resource": [
+          {
+            "Type": "Topic",
+            "Id": "527",
+            "Title": "Make the Most of Your Child’s Visit to the Doctor (Ages 5 to 10 Years)",
+            "TranslationId": "527",
+            "Categories": "Checkups for Children and Teens",
+            "MyHFTitle": "",
+            "MyHFCategory": "",
+            "MyHFCategoryHeading": "",
+            "LastUpdate": "1781190340",
+            "ImageUrl": "https://odphp.health.gov/sites/default/files/2023-03/Child-doctor-5-10_157326614.jpg",
+            "ImageAlt": "A smiling doctor holding medical records and talking with a child and the child’s mother. ",
+            "AccessibleVersion": "https://odphp.health.gov/myhealthfinder/doctor-visits/regular-checkups/make-most-your-childs-visit-doctor-ages-5-10-years",
+            "RelatedItems": {
+              "RelatedItem": [
+                {
+                  "Type": "Topic",
+                  "Id": "541",
+                  "Title": "Get Your Child’s Vision Checked",
+                  "Url": "https://odphp.health.gov/myhealthfinder/doctor-visits/screening-tests/get-your-childs-vision-checked"
+                },
+                {
+                  "Type": "Topic",
+                  "Id": "30535",
+                  "Title": "Talk to Your Kids About Tobacco, Alcohol, and Drugs",
+                  "Url": "https://odphp.health.gov/myhealthfinder/healthy-living/mental-health-and-relationships/talk-your-kids-about-tobacco-alcohol-and-drugs"
+                },
+                {
+                  "Type": "Topic",
+                  "Id": "30566",
+                  "Title": "Help Your Child Stay at a Healthy Weight",
+                  "Url": "https://odphp.health.gov/myhealthfinder/health-conditions/obesity/help-your-child-stay-healthy-weight"
+                }
+              ]
+            },
+            "Sections": {
+              "section": [
+                {
+                  "Title": "The Basics: Overview",
+                  "Content": "<p>Children ages 5 to 10 years need to see the doctor or nurse for a “well-child visit” once a year.</p><p>A well-child visit (also called a checkup) is when you take your child to the doctor to make sure they’re healthy and developing normally. This is different from visits for sickness or injury.</p><p>At a well-child visit, the doctor or nurse can help catch any problems early, when they may be easier to treat. You’ll also have a chance to ask any questions you may have about your child’s behavior or development.</p><p>Learn what to expect so you can make the most of each visit.</p>"
+                },
+                {
+                  "Title": "The Basics: Child Development",
+                  "Content": "<h4>How do I know if my child is growing and developing on&nbsp;schedule?</h4><p>Your child’s doctor or nurse can help you understand how your child is developing and learning to do new things — like read or brush their teeth. These are sometimes called “developmental milestones.”</p><p>Developmental milestones for children ages 5 to 10 years include physical, learning, and social skills — things like:</p><ul><li data-list-item-id=\"e5ee6b534321832183ac72678878d4f4b\">Developing skills for success in school (like listening, paying attention, reading, and doing math)</li><li data-list-item-id=\"e1c387a8b60f8d3ca819e54830d731aff\">Taking care of their&nbsp;bodies without help&nbsp;(like bathing, brushing their teeth, and getting&nbsp;dressed)</li><li data-list-item-id=\"ec1df353172d3986108dda92503f613cf\">Learning from mistakes or failures and trying again</li><li data-list-item-id=\"ea51cd7efc80d6afb74f439f81d6c04f8\">Helping with simple chores</li><li data-list-item-id=\"eedc9011f754e52e273f31a61638ef5f3\">Following family rules</li><li data-list-item-id=\"e0fa1dd6fce99c4161ef39e56b263c1d7\">Developing friendships and getting along with other children</li><li data-list-item-id=\"e1e26dae5cc2bb785bd5acf52fcaf0b42\">Participating in activities like&nbsp;school clubs, sports teams, or music lessons</li></ul><p>See a complete list of developmental milestones for kids who are:</p><ul><li data-list-item-id=\"ec3f5ddf05641a69750741547e3ce41df\"><a href=\"https://odphp.health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.cdc.gov/act-early/milestones/5-years.html?_label_=Age+5%26nbsp%3Byears\">Age 5&nbsp;years</a></li><li data-list-item-id=\"e12d33cf7a2b05ddabba8be8a440d69b2\"><a href=\"https://odphp.health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.cdc.gov/parents/children/index.html ?_label_=Up+to+age+11+years\">Up to age 11 years</a></li></ul>"
+                },
+                {
+                  "Title": "Take Action: Get Ready",
+                  "Content": "<p>Take these steps to help you and your child get the most out of well-child visits.</p><h4>Gather important information.</h4><p>Take any medical records you have to the appointment, including a record of vaccines (shots) your child has received. If your child gets special services at school because of a health condition or disability, bring that paperwork, too.</p><p>Make a list of any important changes in your child’s life since the last doctor’s visit, like a:</p><ul><li data-list-item-id=\"eb9bd0506200cedcf61a340ba6297b0bb\">New brother or sister</li><li data-list-item-id=\"e98aec109e9e2ecf4bdcec8d84db23f3f\">Separation or divorce&nbsp;— or a parent spending time in jail or prison</li><li data-list-item-id=\"e3e6ab2958892cfe9901f477723c4ab18\">New school or a move to a new neighborhood</li><li data-list-item-id=\"e9f7b842b53062f6b4754f5ee04382c17\">Serious illness or death of a friend or family member</li></ul><p>Use this tool to&nbsp;<a href=\"https://odphp.health.gov/myhealthfinder/api/outlink/topicsearch.json/https/cbiit.github.io/FHH/html/index.html?_label_=keep+track+of+your+child%E2%80%99s+family+health+history\">keep track of your child’s family health history</a>. This information will help your doctor or nurse know if your child is at risk for certain health problems.</p><h4>Ask other caregivers about your child.&nbsp;</h4><p>Before you visit the doctor, talk with others who care for your child, like a grandparent, daycare provider, or babysitter. They may be able to help you think of questions to ask the doctor or nurse.</p><h4>Help your child get more involved in doctor visits.</h4><p>You can help your child get involved by letting them know&nbsp;what to expect. <a href=\"https://odphp.health.gov/myhealthfinder/api/outlink/topicsearch.json/https/kidshealth.org/en/parents/dr-visits.html?_label_=Learn+how+to+prepare+your+child+for+a+doctor+visit\">Learn how to prepare your child for a doctor visit</a>.</p><h5>What about cost?</h5><p>Under the Affordable Care Act, insurance plans must cover well-child visits. Depending on your insurance plan, you may be able to get well-child visits at no cost to you. Check with your insurance company to find out more.</p><p>Your child may also qualify for free or low-cost health insurance through Medicaid or the Children’s Health Insurance Program (CHIP). <a href=\"https://odphp.health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.insurekidsnow.gov/coverage/index.html?_label_=Learn+about+coverage+options\">Learn about coverage options</a> for your family.</p><p>If you don’t have insurance, you may still be able to get free or low-cost well-child visits. <a href=\"https://odphp.health.gov/myhealthfinder/api/outlink/topicsearch.json/https/findahealthcenter.hrsa.gov/?_label_=Find+a+health+center+near+you\">Find a health center near you</a> and ask about well-child visits.</p><p>To learn more, check out these resources:</p><ul><li data-list-item-id=\"e55b351af6fb34d9ec6c134147f3b41cd\"><a href=\"https://odphp.health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.healthcare.gov/preventive-care-children/?_label_=Free+preventive+care+for+children+covered+by+the+Affordable+Care+Act\">Free preventive care for children covered by the Affordable Care Act</a></li><li data-list-item-id=\"efb30bdda5acc7a24138ab3b125e400ca\"><a href=\"https://odphp.health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.healthcare.gov/health-care-law-protections/?_label_=How+the+Affordable+Care+Act+protects+you+and+your+family\">How the Affordable Care Act protects you and your family</a></li><li data-list-item-id=\"ed51171d612cbbfe44279aa6c810a6514\"><a href=\"https://odphp.health.gov/myhealthfinder/api/outlink/topicsearch.json/https/marketplace.cms.gov/technical-assistance-resources/c2c-roadmap.pdf?_label_=Understanding+your+health+insurance+and+how+to+use+it+%5BPDF+-+698+KB%5D\">Understanding your health insurance and how to use it [PDF - 698 KB]</a></li></ul>"
+                },
+                {
+                  "Title": "Take Action: Ask Questions",
+                  "Content": "<h4>Make a list of questions you want to ask the doctor.</h4><p>Before the well-child visit, write down a few questions you have. This visit is a great time to ask the doctor or nurse any questions about:</p><ul><li data-list-item-id=\"e7723c8b9b61341cb8bd069e1974b75fb\">A health condition your child has (like asthma, allergies, or a speech problem)</li><li data-list-item-id=\"ebfa7dcfec0c8510e50fbdd13fffeef2a\">Changes in behavior or mood</li><li data-list-item-id=\"edb20c53a2a0c4db0f14da035245c7f87\">Problems in school —&nbsp;with learning or with other children</li><li data-list-item-id=\"e5ea42398742731545bf8096e558a229e\">Your child's gender identity</li></ul><p>Here are some important questions to ask:</p><ul><li data-list-item-id=\"e2498d1b269accebc9e22b6691a3dbae8\">Is my child up&nbsp;to&nbsp;date on vaccines?</li><li data-list-item-id=\"e1423612c47777ee002562b0e0e636c7d\">How can I make sure my child is getting enough physical activity?</li><li data-list-item-id=\"e3d623b72bb449e57963899a11dd74f2d\">How can I help my child eat healthy?</li><li data-list-item-id=\"e812391671c13c7f0797e5a7f96273d28\">Is my child at a healthy weight?</li></ul><p>You may also want to ask:</p><ul><li data-list-item-id=\"e12bc43f53b022a2403461928f663120a\">How can I teach my child to use the internet safely?</li><li data-list-item-id=\"e30359fc2fadd3cf6e43600eec130d65a\">How can I talk with my child about bullying?</li><li data-list-item-id=\"e2f20a2ad208af3f9334a5b6e41eedb42\">How can I help my child know what to expect during puberty?</li><li data-list-item-id=\"e192fed3ec632670fa984a5a0947e00be\">How can I talk to my child about racism and racial bias?</li></ul><p>Take notes so you can remember the answers&nbsp;later.</p><h5>Ask what to do if your child gets sick.</h5><ul><li data-list-item-id=\"e2fa6287aae73d411a7fb2db4f094efeb\">Make sure you know how to get in touch with a doctor or nurse when the office is closed.</li><li data-list-item-id=\"e27fbf89eca28f630c526872c97eee409\">Ask how to reach the doctor on call <span>—</span> or if there's a nurse&nbsp;information service you can call at night or on the weekend.&nbsp;</li></ul>"
+                },
+                {
+                  "Title": "Take Action: What to Expect",
+                  "Content": "<h4>Know what to expect.</h4><p>During each well-child visit, the doctor or nurse will ask you questions about your child, do a physical exam, and&nbsp;update your child’s medical history. You'll also be able to ask your questions and discuss any problems.&nbsp;</p><h4>The doctor or nurse will ask you and your child questions.</h4><p>The doctor or nurse may ask about:</p><ul><li data-list-item-id=\"e023e6cf2314e1e41c78c477939d073b7\"><strong>Behavior:</strong> Does your child have trouble following directions at home or at&nbsp;school?</li><li data-list-item-id=\"e740c5e442c2da4bbfb4f1ceeed9de4cc\"><strong>Health:</strong> Does your child often complain of headaches or other&nbsp;pain?</li><li data-list-item-id=\"ef4d7509c293b6cee56bfbfeccda4a796\"><strong>Emotions:</strong> Is your child often very worried about bad things happening?</li><li data-list-item-id=\"e6fe2929e6fdf4529ee5bcf3784670891\"><strong>School:</strong> Does your child look forward to going to school?</li><li data-list-item-id=\"e85a7e3cff2b78244949a1104a781c3c3\"><strong>Activities:</strong> What does your child like to do after school and on weekends?</li><li data-list-item-id=\"e4c2f66d3310b50f5a68eaf0e5d985b2d\"><strong>Eating habits:</strong> What does your child eat on a normal day?</li><li data-list-item-id=\"e7f5e4ad61a7b71762038e7f7fae00922\"><strong>Family:</strong> Have there been any changes in your family since your last&nbsp;visit?</li></ul><p>They may also ask questions about safety, like:</p><ul><li data-list-item-id=\"e547bcf61a0edea4ad18066c229398ea4\">Does your child always ride in the back seat of the car?</li><li data-list-item-id=\"e8e62109ca4c9d4c1ccffeb9c1ef053bd\">Does anyone in your home have a gun? If so, is it unloaded and locked in a place where your child can’t get it?</li><li data-list-item-id=\"e4957ecfde9d03b87cf82b5ccb986256d\">Is there a swimming pool or other water around your home? Is there a locked door or gate to keep your child from getting to the pool without an adult?</li></ul><p>Your answers to questions like these will help the doctor or nurse make sure your child is healthy, safe, and developing normally. Be honest, even if you’re worried you’re doing something wrong — the doctor or nurse is there to help you.</p>"
+                },
+                {
+                  "Title": "Take Action: Physical Exam",
+                  "Content": "<h4>The doctor or nurse will also check your child’s body.</h4><p>To check your child’s body, the doctor or nurse will:</p><ul><li data-list-item-id=\"e051bd892b7445b361df304c16beb9495\">Measure your child’s height and weight</li><li data-list-item-id=\"e648cc5457d082044110ede85c188d819\">Check your child’s blood pressure</li><li data-list-item-id=\"e2fc86fc463a8f82c8dbc6528bf3a9371\">Check your child’s vision&nbsp;and hearing</li><li data-list-item-id=\"ea9892cdd33867e69dcb257ae4378b551\">Check your child’s body parts</li><li data-list-item-id=\"e7d33509bd76b0d5b61cff6cab1a32bcf\">Give your child vaccines they need</li></ul><p>Learn more about your child’s health care.</p><ul><li data-list-item-id=\"e5461e74cd0e8787d53acf41680af3b1c\"><a href=\"https://odphp.health.gov/myhealthfinder/api/outlink/topicsearch.json/myhealthfinder/topics/doctor-visits/shots-vaccines/get-your-childs-shots-schedule?_label_=Find+out+how+to+get+your+child%E2%80%99s+vaccines%26nbsp%3Bon+schedule\">Find out how to get your child’s vaccines&nbsp;on schedule</a></li><li data-list-item-id=\"ee778d9dc49a47ab8da48e79767fe1391\"><a href=\"https://odphp.health.gov/myhealthfinder/api/outlink/topicsearch.json/myhealthfinder/topics/doctor-visits/screening-tests/get-your-childs-vision-checked?_label_=Learn+about+getting+your+child%E2%80%99s+vision+checked\">Learn about getting your child’s vision checked</a></li></ul>"
+                }
+              ]
+            },
+            "HealthfinderLogo": "https://odphp.health.gov/themes/custom/healthfinder/images/MyHF.svg",
+            "HealthfinderUrl": "https://odphp.health.gov/myhealthfinder"
+          }
+        ]
+      }
+    }
+  }
+}
