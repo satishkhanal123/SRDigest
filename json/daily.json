@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-25T09:58:07.907Z",
+  "generatedAt": "2026-09-26T09:40:32.080Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Misc",
+    "category": "Programming",
     "type": "twopart",
-    "setup": "Mom asked me where I'm taking her to go out to eat for mother's day.",
-    "delivery": "I told her, \"We already have food in the house\".",
+    "setup": "why do python programmers wear glasses?",
+    "delivery": "Because they can't C.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 87,
     "safe": true,
+    "id": 293,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 57,
-      "advice": "If you get stuck, try doing the opposite of what the solution requires."
+      "id": 75,
+      "advice": "You will always regret the round of Tequila."
     }
   },
   "health": {
