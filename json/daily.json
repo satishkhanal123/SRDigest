@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-26T09:40:32.080Z",
+  "generatedAt": "2026-09-27T10:20:08.805Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Programming",
+    "category": "Spooky",
     "type": "twopart",
-    "setup": "why do python programmers wear glasses?",
-    "delivery": "Because they can't C.",
+    "setup": "What is in a ghost's nose?",
+    "delivery": "Boo-gers.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -16,13 +16,13 @@
       "explicit": false
     },
     "safe": true,
-    "id": 293,
+    "id": 295,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 75,
-      "advice": "You will always regret the round of Tequila."
+      "id": 62,
+      "advice": "Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone."
     }
   },
   "health": {
