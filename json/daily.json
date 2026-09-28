@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-27T10:20:08.805Z",
+  "generatedAt": "2026-09-28T11:24:15.037Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Spooky",
+    "category": "Misc",
     "type": "twopart",
-    "setup": "What is in a ghost's nose?",
-    "delivery": "Boo-gers.",
+    "setup": "What's the difference between England and a tea bag?",
+    "delivery": "The tea bag stays in the cup longer.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -16,13 +16,13 @@
       "explicit": false
     },
     "safe": true,
-    "id": 295,
+    "id": 307,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 62,
-      "advice": "Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone."
+      "id": 64,
+      "advice": "You don't need to floss all of your teeth. Only the ones you want to keep."
     }
   },
   "health": {
