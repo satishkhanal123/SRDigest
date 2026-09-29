@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-28T11:24:15.037Z",
+  "generatedAt": "2026-09-29T11:02:00.952Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Misc",
+    "category": "Programming",
     "type": "twopart",
-    "setup": "What's the difference between England and a tea bag?",
-    "delivery": "The tea bag stays in the cup longer.",
+    "setup": "Why did the web developer walk out of a resturant in disgust?",
+    "delivery": "The seating was laid out in tables.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
+    "id": 6,
     "safe": true,
-    "id": 307,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 64,
-      "advice": "You don't need to floss all of your teeth. Only the ones you want to keep."
+      "id": 126,
+      "advice": "Taking photos with tablet devices looks weird."
     }
   },
   "health": {
