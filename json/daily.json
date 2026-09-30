@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-29T11:02:00.952Z",
+  "generatedAt": "2026-09-30T10:52:20.423Z",
   "quote": null,
   "joke": {
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": "Why did the web developer walk out of a resturant in disgust?",
-    "delivery": "The seating was laid out in tables.",
+    "setup": "Why did the Python data scientist get arrested at customs?",
+    "delivery": "She was caught trying to import pandas!",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 6,
+    "id": 233,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 126,
-      "advice": "Taking photos with tablet devices looks weird."
+      "id": 95,
+      "advice": "Good advice is something a man gives when he is too old to set a bad example."
     }
   },
   "health": {
