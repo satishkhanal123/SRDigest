@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-09-30T10:52:20.423Z",
+  "generatedAt": "2026-10-01T11:19:26.775Z",
   "quote": null,
   "joke": {
     "error": false,
     "category": "Programming",
-    "type": "twopart",
-    "setup": "Why did the Python data scientist get arrested at customs?",
-    "delivery": "She was caught trying to import pandas!",
+    "type": "single",
+    "joke": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +14,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 233,
+    "id": 36,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 95,
-      "advice": "Good advice is something a man gives when he is too old to set a bad example."
+      "id": 85,
+      "advice": "If you don't want something to be public, don't post it on the Internet."
     }
   },
   "health": {
