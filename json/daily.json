@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-10-01T11:19:26.775Z",
+  "generatedAt": "2026-10-02T10:51:15.815Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Programming",
-    "type": "single",
-    "joke": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+    "category": "Pun",
+    "type": "twopart",
+    "setup": "Which part of the hospital has the least privacy?",
+    "delivery": "The ICU.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -14,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 36,
     "safe": true,
+    "id": 284,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 85,
-      "advice": "If you don't want something to be public, don't post it on the Internet."
+      "id": 82,
+      "advice": "For every complex problem there is an answer that is clear, simple, and wrong."
     }
   },
   "health": {
