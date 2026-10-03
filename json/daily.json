@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-02T10:51:15.815Z",
+  "generatedAt": "2026-10-03T10:10:42.518Z",
   "quote": null,
   "joke": {
     "error": false,
     "category": "Pun",
     "type": "twopart",
-    "setup": "Which part of the hospital has the least privacy?",
-    "delivery": "The ICU.",
+    "setup": "What did the customer say to the waiter?",
+    "delivery": "I'm all fed up with your service.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
+    "id": 189,
     "safe": true,
-    "id": 284,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 82,
-      "advice": "For every complex problem there is an answer that is clear, simple, and wrong."
+      "id": 218,
+      "advice": "Gratitude is said to be the secret to happiness."
     }
   },
   "health": {
