@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-03T10:10:42.518Z",
+  "generatedAt": "2026-10-04T10:51:40.388Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Pun",
+    "category": "Programming",
     "type": "twopart",
-    "setup": "What did the customer say to the waiter?",
-    "delivery": "I'm all fed up with your service.",
+    "setup": "What's the object-oriented way to become wealthy?",
+    "delivery": "Inheritance.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 189,
+    "id": 46,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 218,
-      "advice": "Gratitude is said to be the secret to happiness."
+      "id": 153,
+      "advice": "Try using an old idea."
     }
   },
   "health": {
