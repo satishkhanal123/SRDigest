@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-10-04T10:51:40.388Z",
+  "generatedAt": "2026-10-05T12:00:01.735Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Programming",
-    "type": "twopart",
-    "setup": "What's the object-oriented way to become wealthy?",
-    "delivery": "Inheritance.",
+    "category": "Pun",
+    "type": "single",
+    "joke": "To whoever stole my copy of Microsoft Office, I will find you. You have my Word!",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +14,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 46,
+    "id": 190,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 153,
-      "advice": "Try using an old idea."
+      "id": 186,
+      "advice": "One of the single best things about being an adult, is being able to buy as much LEGO as you want."
     }
   },
   "health": {
