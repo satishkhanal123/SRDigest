@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-10-05T12:00:01.735Z",
+  "generatedAt": "2026-10-06T11:43:11.849Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Pun",
-    "type": "single",
-    "joke": "To whoever stole my copy of Microsoft Office, I will find you. You have my Word!",
+    "category": "Christmas",
+    "type": "twopart",
+    "setup": "What do elves post on Social Media?",
+    "delivery": "Elf-ies!",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -14,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 190,
+    "id": 248,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 186,
-      "advice": "One of the single best things about being an adult, is being able to buy as much LEGO as you want."
+      "id": 205,
+      "advice": "Try to not compliment people on things they don't control."
     }
   },
   "health": {
