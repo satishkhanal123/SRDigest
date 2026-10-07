@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-06T11:43:11.849Z",
+  "generatedAt": "2026-10-07T11:29:09.390Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Christmas",
+    "category": "Pun",
     "type": "twopart",
-    "setup": "What do elves post on Social Media?",
-    "delivery": "Elf-ies!",
+    "setup": "I can't believe I got fired from the calendar factory.",
+    "delivery": "All I did was take a day off.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 248,
     "safe": true,
+    "id": 302,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 205,
-      "advice": "Try to not compliment people on things they don't control."
+      "id": 1,
+      "advice": "Remember that spiders are more afraid of you, than you are of them."
     }
   },
   "health": {
