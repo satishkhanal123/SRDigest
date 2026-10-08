@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-07T11:29:09.390Z",
+  "generatedAt": "2026-10-08T11:44:54.468Z",
   "quote": null,
   "joke": {
     "error": false,
     "category": "Pun",
     "type": "twopart",
-    "setup": "I can't believe I got fired from the calendar factory.",
-    "delivery": "All I did was take a day off.",
+    "setup": "The gas Argon walks into a bar.\nThe barkeeper says \"What would you like to drink?\"",
+    "delivery": "But Argon doesn't react.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
+    "id": 147,
     "safe": true,
-    "id": 302,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 1,
-      "advice": "Remember that spiders are more afraid of you, than you are of them."
+      "id": 157,
+      "advice": "When something goes wrong in life, just shout \"plot twist!\" and carry on."
     }
   },
   "health": {
