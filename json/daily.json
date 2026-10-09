@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-08T11:44:54.468Z",
+  "generatedAt": "2026-10-09T11:37:43.773Z",
   "quote": null,
   "joke": {
     "error": false,
     "category": "Pun",
     "type": "twopart",
-    "setup": "The gas Argon walks into a bar.\nThe barkeeper says \"What would you like to drink?\"",
-    "delivery": "But Argon doesn't react.",
+    "setup": "Why shouldn't you visit an expensive wig shop?",
+    "delivery": "It's too high a price \"toupee.\"",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 147,
     "safe": true,
+    "id": 267,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 157,
-      "advice": "When something goes wrong in life, just shout \"plot twist!\" and carry on."
+      "id": 153,
+      "advice": "Try using an old idea."
     }
   },
   "health": {
