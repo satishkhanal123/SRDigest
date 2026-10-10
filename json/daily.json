@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-10-09T11:37:43.773Z",
+  "generatedAt": "2026-10-10T10:55:27.769Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Pun",
-    "type": "twopart",
-    "setup": "Why shouldn't you visit an expensive wig shop?",
-    "delivery": "It's too high a price \"toupee.\"",
+    "category": "Programming",
+    "type": "single",
+    "joke": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -16,13 +15,13 @@
       "explicit": false
     },
     "safe": true,
-    "id": 267,
+    "id": 300,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 153,
-      "advice": "Try using an old idea."
+      "id": 121,
+      "advice": "If you think your headphones are dying, check the socket for fluff with a straightened paperclip."
     }
   },
   "health": {
