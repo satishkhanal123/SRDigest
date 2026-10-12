@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-11T11:10:18.133Z",
+  "generatedAt": "2026-10-12T12:41:13.541Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Spooky",
+    "category": "Misc",
     "type": "twopart",
-    "setup": "Why do ghosts go on diets?",
-    "delivery": "So they can keep their ghoulish figures.",
+    "setup": "What's the difference between a hot potato and a flying pig?",
+    "delivery": "One's a heated yam, the other's a yeeted ham.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
+    "id": 140,
     "safe": true,
-    "id": 294,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 1,
-      "advice": "Remember that spiders are more afraid of you, than you are of them."
+      "id": 104,
+      "advice": "Do, or do not. There is no try."
     }
   },
   "health": {
