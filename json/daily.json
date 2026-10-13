@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-10-12T12:41:13.541Z",
+  "generatedAt": "2026-10-13T12:26:00.713Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Misc",
-    "type": "twopart",
-    "setup": "What's the difference between a hot potato and a flying pig?",
-    "delivery": "One's a heated yam, the other's a yeeted ham.",
+    "category": "Programming",
+    "type": "single",
+    "joke": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +14,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 140,
+    "id": 23,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 104,
-      "advice": "Do, or do not. There is no try."
+      "id": 88,
+      "advice": "Hold the door open for the next person."
     }
   },
   "health": {
