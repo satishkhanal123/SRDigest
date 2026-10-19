@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-18T09:18:03.113Z",
+  "generatedAt": "2026-10-19T10:27:56.441Z",
   "quote": null,
   "joke": {
     "error": false,
     "category": "Pun",
     "type": "twopart",
-    "setup": "What do you call a witch at the beach?",
-    "delivery": "A Sandwich.",
+    "setup": "The other day my wife asked me to pass her lipstick, but I accidentally gave her a glue stick.",
+    "delivery": "She still isn't talking to me.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 175,
     "safe": true,
+    "id": 283,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 179,
-      "advice": "Never regret. If it's good, it's wonderful. If it's bad, it's experience."
+      "id": 40,
+      "advice": "Never run with scissors."
     }
   },
   "health": {
