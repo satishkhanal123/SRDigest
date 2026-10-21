@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-10-20T09:46:35.034Z",
+  "generatedAt": "2026-10-21T09:47:53.138Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Pun",
-    "type": "twopart",
-    "setup": "A Roman walks into a bar and raises 2 fingers and says to the bartender...",
-    "delivery": "\"Five beers, please.\"",
+    "category": "Programming",
+    "type": "single",
+    "joke": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +14,14 @@
       "sexist": false,
       "explicit": false
     },
+    "id": 28,
     "safe": true,
-    "id": 285,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 166,
-      "advice": "The quieter you become, the more you can hear."
+      "id": 49,
+      "advice": "A long walk alone with some time to think, can work wonders."
     }
   },
   "health": {
