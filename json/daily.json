@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-10-21T09:47:53.138Z",
+  "generatedAt": "2026-10-22T09:48:41.724Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Programming",
-    "type": "single",
-    "joke": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+    "category": "Misc",
+    "type": "twopart",
+    "setup": "Why was the river rich?",
+    "delivery": "Because it had two banks.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -14,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 28,
+    "id": 181,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 49,
-      "advice": "A long walk alone with some time to think, can work wonders."
+      "id": 205,
+      "advice": "Try to not compliment people on things they don't control."
     }
   },
   "health": {
