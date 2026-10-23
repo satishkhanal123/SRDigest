@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-22T09:48:41.724Z",
+  "generatedAt": "2026-10-23T09:43:20.520Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Misc",
+    "category": "Pun",
     "type": "twopart",
-    "setup": "Why was the river rich?",
-    "delivery": "Because it had two banks.",
+    "setup": "What's the difference between a poorly dressed man on a unicycle and a well dressed man on a bicycle?",
+    "delivery": "Attire.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 181,
     "safe": true,
+    "id": 266,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 205,
-      "advice": "Try to not compliment people on things they don't control."
+      "id": 157,
+      "advice": "When something goes wrong in life, just shout \"plot twist!\" and carry on."
     }
   },
   "health": {
