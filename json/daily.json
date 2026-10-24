@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-23T09:43:20.520Z",
+  "generatedAt": "2026-10-24T09:15:55.339Z",
   "quote": null,
   "joke": {
     "error": false,
     "category": "Pun",
     "type": "twopart",
-    "setup": "What's the difference between a poorly dressed man on a unicycle and a well dressed man on a bicycle?",
-    "delivery": "Attire.",
+    "setup": "I asked my wife if I was the only one she's been with.",
+    "delivery": "She said, \"Yes, the others were at least sevens or eights.\"",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
+    "id": 57,
     "safe": true,
-    "id": 266,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 157,
-      "advice": "When something goes wrong in life, just shout \"plot twist!\" and carry on."
+      "id": 215,
+      "advice": "Once you find a really good friend don't do anything that could mess up your friendship."
     }
   },
   "health": {
