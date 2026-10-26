@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-10-25T09:32:43.067Z",
+  "generatedAt": "2026-10-26T10:43:33.908Z",
   "quote": null,
   "joke": {
     "error": false,
     "category": "Pun",
-    "type": "twopart",
-    "setup": "Why did the Romanian stop reading?",
-    "delivery": "They wanted to give the Bucharest.",
+    "type": "single",
+    "joke": "I was struggling to figure out how lightning works, but then it struck me.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +14,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 85,
+    "id": 219,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 159,
-      "advice": "What's stopping you?"
+      "id": 192,
+      "advice": "Don't take it personally."
     }
   },
   "health": {
