@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-26T10:43:33.908Z",
+  "generatedAt": "2026-10-27T10:10:38.542Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Pun",
+    "category": "Programming",
     "type": "single",
-    "joke": "I was struggling to figure out how lightning works, but then it struck me.",
+    "joke": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -14,14 +14,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 219,
+    "id": 28,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 192,
-      "advice": "Don't take it personally."
+      "id": 84,
+      "advice": "Never set an alarm clock unless you know how to switch it off"
     }
   },
   "health": {
