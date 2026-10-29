@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-28T10:56:47.398Z",
+  "generatedAt": "2026-10-29T11:15:19.520Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Pun",
+    "category": "Misc",
     "type": "twopart",
-    "setup": "What do you call a cow with no legs?",
-    "delivery": "Ground beef.",
+    "setup": "My wife left me because I'm too insecure and paranoid.",
+    "delivery": "Oh wait, never mind. She was just getting the mail.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 195,
+    "id": 80,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 190,
-      "advice": "Don't always believe what you think."
+      "id": 98,
+      "advice": "It's always the quiet ones."
     }
   },
   "health": {
