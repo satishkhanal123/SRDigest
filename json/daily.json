@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-30T11:09:06.509Z",
+  "generatedAt": "2026-10-31T10:42:39.781Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Misc",
+    "category": "Christmas",
     "type": "twopart",
-    "setup": "I WRITE MY JOKES IN CAPITALS.",
-    "delivery": "THIS ONE WAS WRITTEN IN PARIS.",
+    "setup": "What says Oh Oh Oh?",
+    "delivery": "Santa walking backwards!",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 77,
+    "id": 244,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 44,
-      "advice": "If you are feeling down, try holding a pencil between your top lip and your nose for five minutes."
+      "id": 211,
+      "advice": "No \"brand\" is your friend."
     }
   },
   "health": {
