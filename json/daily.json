@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-31T10:42:39.781Z",
+  "generatedAt": "2026-11-01T11:37:37.194Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Christmas",
+    "category": "Pun",
     "type": "twopart",
-    "setup": "What says Oh Oh Oh?",
-    "delivery": "Santa walking backwards!",
+    "setup": "What do you call 4 Mexicans in quicksand?",
+    "delivery": "Quatro Sinko.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 244,
+    "id": 176,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 211,
-      "advice": "No \"brand\" is your friend."
+      "id": 167,
+      "advice": "No one knows anyone else in the way you do."
     }
   },
   "health": {
