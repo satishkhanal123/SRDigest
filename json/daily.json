@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-02T13:02:03.445Z",
+  "generatedAt": "2026-11-03T12:34:46.494Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Pun",
+    "category": "Christmas",
     "type": "twopart",
-    "setup": "What do you call 4 Mexicans in quicksand?",
-    "delivery": "Quatro Sinko.",
+    "setup": "Who hides in the bakery at Christmas?",
+    "delivery": "A mince spy!",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 176,
+    "id": 249,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 157,
-      "advice": "When something goes wrong in life, just shout \"plot twist!\" and carry on."
+      "id": 156,
+      "advice": "Life is short enough, don't race to the finish."
     }
   },
   "health": {
