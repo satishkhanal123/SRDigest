@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-03T12:34:46.494Z",
+  "generatedAt": "2026-11-04T12:45:01.734Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Christmas",
+    "category": "Spooky",
     "type": "twopart",
-    "setup": "Who hides in the bakery at Christmas?",
-    "delivery": "A mince spy!",
+    "setup": "What is in a ghost's nose?",
+    "delivery": "Boo-gers.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 249,
     "safe": true,
+    "id": 295,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 156,
-      "advice": "Life is short enough, don't race to the finish."
+      "id": 74,
+      "advice": "Work is never as important as you think it is."
     }
   },
   "health": {
