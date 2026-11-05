@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-04T12:45:01.734Z",
+  "generatedAt": "2026-11-05T12:54:59.683Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Spooky",
+    "category": "Pun",
     "type": "twopart",
-    "setup": "What is in a ghost's nose?",
-    "delivery": "Boo-gers.",
+    "setup": "What do you call a deer with no eyes?",
+    "delivery": "No eye deer.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
+    "id": 209,
     "safe": true,
-    "id": 295,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 74,
-      "advice": "Work is never as important as you think it is."
+      "id": 188,
+      "advice": "Measure twice, cut once."
     }
   },
   "health": {
