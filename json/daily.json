@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-11-05T12:54:59.683Z",
+  "generatedAt": "2026-11-06T12:40:43.160Z",
   "quote": null,
   "joke": {
     "error": false,
     "category": "Pun",
-    "type": "twopart",
-    "setup": "What do you call a deer with no eyes?",
-    "delivery": "No eye deer.",
+    "type": "single",
+    "joke": "Today, my son asked \"Can I have a book mark?\" and I burst into tears.\n11 years old and he still doesn't know my name is Brian.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +14,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 209,
+    "id": 199,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 188,
-      "advice": "Measure twice, cut once."
+      "id": 93,
+      "advice": "The higher up you are in a company, the more likely it is that your boss is a psychopath."
     }
   },
   "health": {
