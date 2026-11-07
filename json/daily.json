@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-11-06T12:40:43.160Z",
+  "generatedAt": "2026-11-07T11:27:38.171Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Pun",
-    "type": "single",
-    "joke": "Today, my son asked \"Can I have a book mark?\" and I burst into tears.\n11 years old and he still doesn't know my name is Brian.",
+    "category": "Misc",
+    "type": "twopart",
+    "setup": "How do construction workers party?",
+    "delivery": "They raise the roof.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -14,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 199,
+    "id": 216,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 93,
-      "advice": "The higher up you are in a company, the more likely it is that your boss is a psychopath."
+      "id": 112,
+      "advice": "It's not about who likes you, it's about who you like."
     }
   },
   "health": {
