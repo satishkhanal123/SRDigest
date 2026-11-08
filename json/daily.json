@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-11-07T11:27:38.171Z",
+  "generatedAt": "2026-11-08T11:39:20.699Z",
   "quote": null,
   "joke": {
     "error": false,
     "category": "Misc",
-    "type": "twopart",
-    "setup": "How do construction workers party?",
-    "delivery": "They raise the roof.",
+    "type": "single",
+    "joke": "My parents raised me as an only child, which really annoyed my younger brother.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +14,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 216,
+    "id": 234,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 112,
-      "advice": "It's not about who likes you, it's about who you like."
+      "id": 94,
+      "advice": "Sometimes, you just need to say sorry. Even if it's not your fault."
     }
   },
   "health": {
