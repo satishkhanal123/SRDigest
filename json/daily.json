@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-11-08T11:39:20.699Z",
+  "generatedAt": "2026-11-09T13:34:00.352Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Misc",
-    "type": "single",
-    "joke": "My parents raised me as an only child, which really annoyed my younger brother.",
+    "category": "Spooky",
+    "type": "twopart",
+    "setup": "Why didn't the skeleton go for prom?",
+    "delivery": "Because it had nobody.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -14,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 234,
+    "id": 182,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 94,
-      "advice": "Sometimes, you just need to say sorry. Even if it's not your fault."
+      "id": 75,
+      "advice": "You will always regret the round of Tequila."
     }
   },
   "health": {
