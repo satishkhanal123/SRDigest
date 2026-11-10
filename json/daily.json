@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-09T13:34:00.352Z",
+  "generatedAt": "2026-11-10T13:12:56.121Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Spooky",
+    "category": "Programming",
     "type": "twopart",
-    "setup": "Why didn't the skeleton go for prom?",
-    "delivery": "Because it had nobody.",
+    "setup": "What is the best prefix for global variables?",
+    "delivery": "//",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 182,
+    "id": 32,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 75,
-      "advice": "You will always regret the round of Tequila."
+      "id": 155,
+      "advice": "What could you increase? What could you reduce?"
     }
   },
   "health": {
