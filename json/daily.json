@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-11-11T12:23:11.165Z",
+  "generatedAt": "2026-11-12T13:29:47.342Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Programming",
-    "type": "single",
-    "joke": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+    "category": "Pun",
+    "type": "twopart",
+    "setup": "What do you call 4 Mexicans in quicksand?",
+    "delivery": "Quatro Sinko.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -14,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 41,
+    "id": 176,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 91,
-      "advice": "Drink a glass of water before meals."
+      "id": 186,
+      "advice": "One of the single best things about being an adult, is being able to buy as much LEGO as you want."
     }
   },
   "health": {
