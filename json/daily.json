@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T13:29:47.342Z",
+  "generatedAt": "2026-11-13T12:49:01.776Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Pun",
+    "category": "Misc",
     "type": "twopart",
-    "setup": "What do you call 4 Mexicans in quicksand?",
-    "delivery": "Quatro Sinko.",
+    "setup": "What is the least spoken language in the world?",
+    "delivery": "Sign language.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 176,
+    "id": 75,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 186,
-      "advice": "One of the single best things about being an adult, is being able to buy as much LEGO as you want."
+      "id": 35,
+      "advice": "Only those who attempt the impossible can achieve the absurd."
     }
   },
   "health": {
