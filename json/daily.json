@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T12:49:01.776Z",
+  "generatedAt": "2026-11-14T11:54:33.208Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Misc",
+    "category": "Pun",
     "type": "twopart",
-    "setup": "What is the least spoken language in the world?",
-    "delivery": "Sign language.",
+    "setup": "What did the customer say to the waiter?",
+    "delivery": "I'm all fed up with your service.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 75,
+    "id": 189,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 35,
-      "advice": "Only those who attempt the impossible can achieve the absurd."
+      "id": 204,
+      "advice": "The best nights out are when people around you are simply having fun."
     }
   },
   "health": {
