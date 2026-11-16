@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-15T12:27:22.813Z",
+  "generatedAt": "2026-11-16T13:18:53.653Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Pun",
+    "category": "Christmas",
     "type": "twopart",
-    "setup": "What do you call a witch at the beach?",
-    "delivery": "A Sandwich.",
+    "setup": "What do elves post on Social Media?",
+    "delivery": "Elf-ies!",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 175,
+    "id": 248,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 30,
-      "advice": "When in doubt, just take the next small step."
+      "id": 29,
+      "advice": "As you get older, learn never to trust a fart."
     }
   },
   "health": {
