@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-16T13:18:53.653Z",
+  "generatedAt": "2026-11-17T14:03:58.008Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Christmas",
+    "category": "Programming",
     "type": "twopart",
-    "setup": "What do elves post on Social Media?",
-    "delivery": "Elf-ies!",
+    "setup": "Why does no one like SQLrillex?",
+    "delivery": "He keeps dropping the database.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 248,
+    "id": 13,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 29,
-      "advice": "As you get older, learn never to trust a fart."
+      "id": 19,
+      "advice": "If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip."
     }
   },
   "health": {
