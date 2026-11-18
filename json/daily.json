@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-11-17T14:03:58.008Z",
+  "generatedAt": "2026-11-18T13:37:59.856Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Programming",
-    "type": "twopart",
-    "setup": "Why does no one like SQLrillex?",
-    "delivery": "He keeps dropping the database.",
+    "category": "Pun",
+    "type": "single",
+    "joke": "A horse walks into a bar.\n\"Hey\", the Bartender says.\n\"Sure\", the horse replies.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +14,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 13,
+    "id": 73,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 19,
-      "advice": "If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip."
+      "id": 223,
+      "advice": "Vinegar is a powerful cleaning agent."
     }
   },
   "health": {
