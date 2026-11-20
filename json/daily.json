@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T14:04:58.219Z",
+  "generatedAt": "2026-11-20T13:47:11.794Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Pun",
+    "category": "Christmas",
     "type": "twopart",
-    "setup": "Why do front end developers eat lunch alone?",
-    "delivery": "Because they don't know how to join tables.",
+    "setup": "What's Santa's favourite type of music?",
+    "delivery": "Wrap!",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 253,
+    "id": 246,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 52,
-      "advice": "Don't promise what you can't deliver."
+      "id": 33,
+      "advice": "Don't let the bastards grind you down."
     }
   },
   "health": {
