@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-22T13:01:21.772Z",
+  "generatedAt": "2026-11-23T15:38:17.825Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Pun",
+    "category": "Programming",
     "type": "twopart",
-    "setup": "So I made a graph of all my past relationships.",
-    "delivery": "It has an ex axis and a why axis.",
+    "setup": "Why do programmers confuse Halloween and Christmas?",
+    "delivery": "Because Oct 31 = Dec 25",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 79,
+    "id": 11,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 72,
-      "advice": "Don't eat anything your grandparents wouldn't recognise as food."
+      "id": 53,
+      "advice": "Accentuate the positive, eliminate the negative."
     }
   },
   "health": {
