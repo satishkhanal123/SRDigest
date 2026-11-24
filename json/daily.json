@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-23T15:38:17.825Z",
+  "generatedAt": "2026-11-24T15:28:45.757Z",
   "quote": null,
   "joke": {
     "error": false,
     "category": "Programming",
     "type": "twopart",
-    "setup": "Why do programmers confuse Halloween and Christmas?",
-    "delivery": "Because Oct 31 = Dec 25",
+    "setup": "What is a dying programmer's last program?",
+    "delivery": "Goodbye, world!",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 11,
+    "id": 55,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 53,
-      "advice": "Accentuate the positive, eliminate the negative."
+      "id": 165,
+      "advice": "Eliminate the unnecessary."
     }
   },
   "health": {
