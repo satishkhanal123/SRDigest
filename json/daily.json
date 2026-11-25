@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-11-24T15:28:45.757Z",
+  "generatedAt": "2026-11-25T15:15:36.459Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Programming",
-    "type": "twopart",
-    "setup": "What is a dying programmer's last program?",
-    "delivery": "Goodbye, world!",
+    "category": "Misc",
+    "type": "single",
+    "joke": "I visited my friend at his new house. He told me to make myself at home. So I threw him out. I hate having visitors.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +14,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 55,
     "safe": true,
+    "id": 303,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 165,
-      "advice": "Eliminate the unnecessary."
+      "id": 182,
+      "advice": "Most things look better when you put them in a circle."
     }
   },
   "health": {
