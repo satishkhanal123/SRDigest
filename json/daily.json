@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-25T15:15:36.459Z",
+  "generatedAt": "2026-11-26T14:40:18.990Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Misc",
+    "category": "Programming",
     "type": "single",
-    "joke": "I visited my friend at his new house. He told me to make myself at home. So I threw him out. I hate having visitors.",
+    "joke": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -14,14 +14,14 @@
       "sexist": false,
       "explicit": false
     },
+    "id": 24,
     "safe": true,
-    "id": 303,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 182,
-      "advice": "Most things look better when you put them in a circle."
+      "id": 87,
+      "advice": "Turn jeans inside out when washing them to help preserve their colour."
     }
   },
   "health": {
