@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-27T14:38:15.249Z",
+  "generatedAt": "2026-11-28T13:50:25.005Z",
   "quote": null,
   "joke": {
     "error": false,
-    "category": "Christmas",
+    "category": "Pun",
     "type": "twopart",
-    "setup": "Who is Santa's favourite singer?",
-    "delivery": "Elf-is Presley!",
+    "setup": "Two guys walked into a bar.",
+    "delivery": "The third guy ducked.",
     "flags": {
       "nsfw": false,
       "religious": false,
@@ -15,14 +15,14 @@
       "sexist": false,
       "explicit": false
     },
-    "id": 245,
+    "id": 167,
     "safe": true,
     "lang": "en"
   },
   "advice": {
     "slip": {
-      "id": 105,
-      "advice": "When you look around and don't see anyone you respect, its time to leave."
+      "id": 172,
+      "advice": "If it still itches after a week, go to the doctors."
     }
   },
   "health": {
